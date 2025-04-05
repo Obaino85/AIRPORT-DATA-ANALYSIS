@@ -29,4 +29,7 @@ This analysis provides actionable, data-driven insights and strategic recommenda
 -  Enhancing overall passenger satisfaction and experience
 -  Informing data-backed decisions for policy, staffing, and infrastructure improvements
 
+  ![airport data analysis](https://github.com/user-attachments/assets/04f644d9-d809-49f1-a4fe-7852b2b1f4f5)
+
+
  
